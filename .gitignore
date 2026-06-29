@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+_gen_img_*.png
+_gen_vid_*.mp4
+*.egg-info/
+.venv/
+venv/
