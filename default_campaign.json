@@ -1,0 +1,13 @@
+{
+  "_comment": "Edit these defaults to match your typical campaign brief. They are shown as placeholder values in the UI. Do not put sensitive data here.",
+  "product_name": "",
+  "product_category": "Consumer Goods",
+  "product_description": "",
+  "target_audience": "",
+  "brand_tone": "Professional",
+  "campaign_goal": "Brand Awareness",
+  "industry": "Technology",
+  "target_region": "Global",
+  "language": "English",
+  "call_to_action": "Learn More"
+}

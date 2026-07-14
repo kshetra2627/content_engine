@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+# --- PRO ADDITION: generated media output dir ---
+output/
+# Legacy generated files at root (pre-Pro)
+_gen_img_*.png
+_gen_vid_*.mp4
+*.egg-info/
+.venv/
+venv/
